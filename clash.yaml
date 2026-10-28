@@ -1,4 +1,4 @@
-# iozz 免费节点 · 2026-10-27 更新（每天轮换，过期作废）
+# iozz 免费节点 · 2026-10-28 更新（每天轮换，过期作废）
 # 稳定不限速的全节点：Telegram 机器人 https://t.me/iozzxraybot
 port: 7890
 socks-port: 7891
@@ -10,16 +10,16 @@ proxies:
   - name: "香港-Free"
     type: socks5
     server: 91.229.133.236
-    port: 48405
-    username: "u990000299"
-    password: "TXypU3EbjdlmwBFSrVGt"
+    port: 48415
+    username: "u990000300"
+    password: "Nb2zRC46o1qElnCFKEMg"
     udp: true
   - name: "美国-Free"
     type: socks5
     server: 143.246.59.194
-    port: 48405
-    username: "u990000299"
-    password: "TXypU3EbjdlmwBFSrVGt"
+    port: 48415
+    username: "u990000300"
+    password: "Nb2zRC46o1qElnCFKEMg"
     udp: true
 
 proxy-groups:
