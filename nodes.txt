@@ -1,2 +1,2 @@
-tg://proxy?server=91.229.133.236&port=2053&secret=dd83f11380e63c473c86beb7a57531a02a
-tg://proxy?server=143.246.59.194&port=2053&secret=dd83f11380e63c473c86beb7a57531a02a
+tg://proxy?server=91.229.133.236&port=2053&secret=dd0d09071b20b350d8f40c6334f6170545
+tg://proxy?server=143.246.59.194&port=2053&secret=dd0d09071b20b350d8f40c6334f6170545
