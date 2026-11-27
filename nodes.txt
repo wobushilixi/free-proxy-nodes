@@ -1,2 +1,2 @@
-tg://proxy?server=mt-hkf.suvo.top&port=8443&secret=ee2a8a33784069c111ffd0a9b8fdf8c6e07777772e6170706c652e636f6d
-tg://proxy?server=mt-usf.suvo.top&port=8443&secret=ee2a8a33784069c111ffd0a9b8fdf8c6e07777772e6170706c652e636f6d
+tg://proxy?server=mt-hkf.suvo.top&port=8443&secret=eee77afb42d17391b76a747dc94111daf67777772e6170706c652e636f6d
+tg://proxy?server=mt-usf.suvo.top&port=8443&secret=eee77afb42d17391b76a747dc94111daf67777772e6170706c652e636f6d
